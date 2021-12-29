@@ -1,3 +1,3 @@
 # Data_Visualization
 
-Making Static and Interactive Data Visualization.
+Making Static and Interactive Data Visualization with Pandas
